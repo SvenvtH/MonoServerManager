@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sven\\source\\repos\\MonoServerManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586213D0-1963-4CED-9FC0-59D8C8424DC1}|MonoServerManager\\MonoServerManager.csproj|c:\\users\\sven\\source\\repos\\monoservermanager\\monoservermanager\\gameservermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586213D0-1963-4CED-9FC0-59D8C8424DC1}|MonoServerManager\\MonoServerManager.csproj|solutionrelative:monoservermanager\\gameservermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586213D0-1963-4CED-9FC0-59D8C8424DC1}|MonoServerManager\\MonoServerManager.csproj|c:\\users\\sven\\source\\repos\\monoservermanager\\monoservermanager\\monoservermanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{586213D0-1963-4CED-9FC0-59D8C8424DC1}|MonoServerManager\\MonoServerManager.csproj|solutionrelative:monoservermanager\\monoservermanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586213D0-1963-4CED-9FC0-59D8C8424DC1}|MonoServerManager\\MonoServerManager.csproj|c:\\users\\sven\\source\\repos\\monoservermanager\\monoservermanager\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586213D0-1963-4CED-9FC0-59D8C8424DC1}|MonoServerManager\\MonoServerManager.csproj|solutionrelative:monoservermanager\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonoServerManager",
+              "DocumentMoniker": "C:\\Users\\sven\\source\\repos\\MonoServerManager\\MonoServerManager\\MonoServerManager.csproj",
+              "RelativeDocumentMoniker": "MonoServerManager\\MonoServerManager.csproj",
+              "ToolTip": "C:\\Users\\sven\\source\\repos\\MonoServerManager\\MonoServerManager\\MonoServerManager.csproj",
+              "RelativeToolTip": "MonoServerManager\\MonoServerManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T15:59:40.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameServerManager.cs",
+              "DocumentMoniker": "C:\\Users\\sven\\source\\repos\\MonoServerManager\\MonoServerManager\\GameServerManager.cs",
+              "RelativeDocumentMoniker": "MonoServerManager\\GameServerManager.cs",
+              "ToolTip": "C:\\Users\\sven\\source\\repos\\MonoServerManager\\MonoServerManager\\GameServerManager.cs",
+              "RelativeToolTip": "MonoServerManager\\GameServerManager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:11:51.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Users\\sven\\source\\repos\\MonoServerManager\\MonoServerManager\\Core.cs",
+              "RelativeDocumentMoniker": "MonoServerManager\\Core.cs",
+              "ToolTip": "C:\\Users\\sven\\source\\repos\\MonoServerManager\\MonoServerManager\\Core.cs",
+              "RelativeToolTip": "MonoServerManager\\Core.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:30:19.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

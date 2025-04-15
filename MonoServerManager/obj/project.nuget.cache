@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YHi9pioHmFA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sven\\source\\repos\\MonoServerManager\\MonoServerManager\\MonoServerManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sven\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.3\\bepinex.assemblypublicizer.msbuild.0.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

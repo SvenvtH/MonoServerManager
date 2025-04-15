@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = MonoServerManager
+build_property.ProjectDir = C:\Users\sven\source\repos\MonoServerManager\MonoServerManager\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
